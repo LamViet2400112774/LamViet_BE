@@ -1,0 +1,4 @@
+#MONGO_URI=mongodb+srv://vietlenovo2006_db_user:Lamviet2308@clusterlamviet.l4mdnug.mongodb.net/mydb?retryWrites=true&w=majority&appName=ClusterLamViet&ssl=true&tls=true
+
+
+#PORT=3000
